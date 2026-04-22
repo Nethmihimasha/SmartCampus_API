@@ -1,5 +1,6 @@
 com\smartcampus\api\model\ErrorResponse.class
 com\smartcampus\api\store\InMemoryDataStore.class
+com\smartcampus\api\mapper\WebApplicationExceptionMapper.class
 com\smartcampus\api\mapper\GlobalExceptionMapper.class
 com\smartcampus\api\resource\SensorReadingResource.class
 com\smartcampus\api\exception\RoomNotEmptyException.class

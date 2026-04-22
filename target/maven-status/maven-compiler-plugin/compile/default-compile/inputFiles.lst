@@ -8,6 +8,7 @@ C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\ap
 C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\api\mapper\SensorUnavailableExceptionMapper.java
 C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\api\mapper\RoomNotEmptyExceptionMapper.java
 C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\api\model\SensorReading.java
+C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\api\mapper\WebApplicationExceptionMapper.java
 C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\api\model\Sensor.java
 C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\api\store\InMemoryDataStore.java
 C:\Users\nethm\Downloads\CSA_CW2\SmartCampusAPI\src\main\java\com\smartcampus\api\config\SmartCampusApplication.java
