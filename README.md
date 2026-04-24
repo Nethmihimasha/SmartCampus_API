@@ -169,3 +169,7 @@ A catch-all `ExceptionMapper<Throwable>` prevents raw stack traces/default error
 
 ### Part 5.5 - Why filters are better for cross-cutting logging
 JAX-RS filters centralize cross-cutting concerns such as request/response logging. This gives consistent coverage across all endpoints, reduces duplicated `Logger.info()` calls in resource methods, and preserves separation of concerns. Business logic remains focused on domain behavior while observability remains centralized and maintainable.
+
+## Documentation
+
+- [Project Report (PDF)](docs/report.pdf)
